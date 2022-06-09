@@ -316,8 +316,8 @@ img {
   .contact-me-section {
     display: flex;
     flex-direction: column;
-    text-align: left;
-    align-content: left;
+    justify-content: center;
+    align-items: center;
   }
 
   h2 {
